@@ -1,6 +1,6 @@
   @echo on
 :: Function: List all Wifi Connection
-:: Author: Leonidas = 07 May 2022
+:: Author: Leonidas - 07 May 2022
 ::
    @netsh wlan show profiles
    @echo Selecione o profile e cole abaixo:
